@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:noteapp/screens/taking_notes.dart';
-import '../utilities/notes-list.dart';
+import '../utilities/notes_list.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
